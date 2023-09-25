@@ -1,3 +1,3 @@
 ﻿# marker-ninja
 
-Testing git
+🥷🏼 Onset Beat Detection Marker Plug-In For Adobe Premiere Pro
